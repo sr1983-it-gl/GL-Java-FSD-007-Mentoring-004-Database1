@@ -1,0 +1,3 @@
+call PriceOfCurrentMonth('January', '2022');
+
+
